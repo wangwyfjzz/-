@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# 本地环境变量与令牌，绝不入库
+.env
+.env.*
+*.token
+token.txt
